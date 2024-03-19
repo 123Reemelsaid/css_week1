@@ -1,0 +1,25 @@
+.element-1 {
+    width: 400px;
+    background-color:gainsboro;
+    border-left: 5px solid palevioletred;
+    height: 50px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.element-2 {
+    width: 400px;
+    background-color: gainsboro;
+    visibility: hidden;
+    height: 100px;
+}
+.element-3 {
+    width: 400px;
+    background-color: gainsboro;
+    height: 50px;
+    border-left: 5px solid rgb(111, 199, 170);
+    text-align: center;
+    padding-top: 20px;
+}
+
+
